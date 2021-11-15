@@ -1,4 +1,3 @@
-USER root
 ARG ELK_VERSION
 
 # https://www.docker.elastic.co/
